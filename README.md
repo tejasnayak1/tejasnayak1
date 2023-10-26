@@ -1,7 +1,7 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Ft-banner&psig=AOvVaw3t0kYJs-HANQhbBOeb_Ve6&ust=1698428843397000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCC3eajlIIDFQAAAAAdAAAAABAD" alt="" srcset="">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Tejas NayakB</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasnayak1&label=Profile%20views&color=0e75b6&style=flat" alt="tejasnayak1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasnayak1" alt="tejasnayak1" /></a> </p>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tejasnayak1@gmail.com**
 
-- 📄 Know about my experiences [I am just a traveler who wants to explore the open world of technologies and development](I am just a traveler who wants to explore the open world of technologies and development)
+- 📄 Know about my experiences : I am just a traveler who wants to explore the open world of technologies and development.
 
 - ⚡ Fun fact **A jack of all trades is a master of none, but oftentimes better than a master of one**
 
